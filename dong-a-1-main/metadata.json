@@ -1,0 +1,7 @@
+{
+  "name": "Dong-A AI Newsroom",
+  "description": "An AI-powered assistant for journalists at Dong-A Ilbo, featuring AI writing, image generation, and headline optimization.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
